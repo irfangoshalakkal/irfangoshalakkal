@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @irfangoshalakkal
-- 👀 I’m interested in educational game design, User Reasearch, Tech, Teaching etc..
-- 🌱 I’m currently working in an edtech company
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Network Engineering, Security, Scalable IT infrastructure etc..
+- 🌱 I’m currently working as Network Security Engineer in KSA
+- 💞️ I’m looking to collaborate on Network Engineering related projects
+- 📫 You can reach me on irfangoshalakkal@gmail.com
 
 <!---
 irfangoshalakkal/irfangoshalakkal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
