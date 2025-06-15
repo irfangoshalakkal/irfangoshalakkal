@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irfangoshalakkal
-- 👀 I’m interested in Network Engineering, Security, Scalable IT infrastructure etc..
+- 👀 I’m interested in Network Engineering, Network Security, Scalable IT infrastructure etc..
 - 🌱 I’m currently working as Network Security Engineer in KSA
 - 💞️ I’m looking to collaborate on Network Engineering related projects
 - 📫 You can reach me on irfangoshalakkal@gmail.com
